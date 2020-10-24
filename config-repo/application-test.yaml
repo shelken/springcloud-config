@@ -1,2 +1,3 @@
 shelken: 
   hello: i am test env
+  version: 2.2
